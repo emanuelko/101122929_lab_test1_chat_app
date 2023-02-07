@@ -1,0 +1,11 @@
+{
+  "name": "101122929_lab_test1_chat_app",
+  "version": "1.0.0",
+  "description": "lab test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emanuel Ko 101122929",
+  "license": "ISC"
+}
